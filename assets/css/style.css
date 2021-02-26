@@ -37,6 +37,8 @@
       /* Photo Div */
       .bg-1 {
           background-image:url("../images/charcoal.jpg");
+          height: auto;
+          width: auto;
           background-size: cover;
           color:white;
           font-style: italic;
