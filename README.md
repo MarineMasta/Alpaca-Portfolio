@@ -34,7 +34,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 # Final Product Screenshot
 
-![](assets/images/screenshot.png "Screenshot")
+![](https://github.com/MarineMasta/Alpaca-Portfolio/blob/main/assets/images/Screenshot.png?raw=true "Screenshot")
 
 # Link
 
