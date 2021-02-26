@@ -34,7 +34,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 # Final Product Screenshot
 
-![](assets/Screenshot.png "Screenshot")
+![](assets/images/screenshot.png "Screenshot")
 
 # Link
 
