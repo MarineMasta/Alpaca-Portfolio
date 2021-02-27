@@ -123,6 +123,19 @@
           color: tomato;
       }
 
+      .contacter:hover {
+          color: maroon;
+          
+      }
+
+      .contacter:active {
+          text-decoration: underline;
+      }
+
+      .contacter:visited {
+          color:maroon
+      }
+
       #facebook {
           width: 300px;
           height: 500px;
