@@ -4,6 +4,12 @@
           font-family: Georgia, 'Times New Roman', Times, serif;
       }
 
+      /* Padding for all Body Sections */
+      .container-fluid {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
       /* Nav Bar */
       .navbar {
           padding-top: 15px;
@@ -63,7 +69,6 @@
           background-color: white;
           color:#333333;
       }
-
       #WHO h2 {
           padding-bottom: 50px;
           font-weight: 800;
@@ -75,33 +80,27 @@
           background-color:#333333;
           color: white;
       }
-
       #WHAT h2 {
         padding-bottom: 50px;
         font-weight: 800;
         font-size: 40px;
     }
-
       #WHAT img {
           margin-bottom: 20px;
       }
-
       #WHAT a {
           color: tomato;
       }
-
       #first {
           width: 100%;
           display: inline;
       }
-
             /*Changes the % of the screen taken up by the first project image when viewed on devices with screen width over 768px*/
             @media (min-width: 768px) {
                 #first {
                 width: 35%;
                 }
             }
-
       #project2, #project3, #project4 {
           width: 75%;
           display: inline;
@@ -112,43 +111,35 @@
           background-color: white;
           color:#333333;
       }
-
       #CONTACT h2 {
         padding-bottom: 50px;
         font-weight: 800;
         font-size: 40px;
       }
-
       .contacter {
           color: tomato;
       }
-
       .contacter:hover {
           color: maroon;
           
       }
-
       .contacter:active {
           text-decoration: underline;
       }
-
       .contacter:visited {
           color:maroon
       }
-
       #facebook {
           width: 300px;
           height: 500px;
           align-self: center;
       }
-
             /*Changes the size of the facebook plugin depending on the screen size*/
             @media (min-width:481px) {
                 #facebook {
                 width: 450px;
                 }
             }
-
             @media (min-width: 768px) {
                 #facebook {
                     width: 500px;
@@ -160,10 +151,4 @@
           background-color: #333333;
           color:white;
           font-weight: 900;
-      }
-
-      /* Padding for all Body Sections */
-      .container-fluid {
-          padding-top: 70px;
-          padding-bottom: 70px;
       }
